@@ -1,2 +1,2 @@
 # porte-clef-visage-drole-avec-cran-i2c
-voila
+code compatible pour arduino nano esp32 et rp pico (testé)
